@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Remus
 
-<!--
-**daremust/daremust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marketing × Data × AI**
 
-Here are some ideas to get you started:
+I come from a digital marketing background, with more recent experience in technical content and communities across the data and AI ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm now exploring the technical side: building with LLMs, AI agents, data pipelines, and marketing automation while developing my Python and data engineering skills.
+
+### What I'm working on
+
+- **Multi-LLM Workspace:** a workflow for generating, comparing, reviewing, and refining content across multiple LLMs.
+- **AI agents and automation:** experimenting with agent-based workflows for marketing and GTM.
+- **Data pipelines:** learning Python and building practical data projects.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/remusmolnar/)
